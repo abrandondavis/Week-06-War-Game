@@ -1,0 +1,15 @@
+{
+  "name": "JavaScript - Week 06",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
